@@ -3,9 +3,9 @@
 I'm a passionate developer interested in web development and open-source contributions.
 
 ## Skills
-- **Languages:** JavaScript, Python, Golang
-- **Frameworks:** React, Node.js, Flask
-- **Tools:** Git, Docker, VS Code
+- **Languages:** JavaScript, Python, Golang, Typescript
+- **Frameworks:** React, Node.js, Flask, Nest.js
+- **Tools:** Git, Docker, VS Code, Kubernetes
 
 ## Projects
 - [Awesome Project](https://github.com/youngdavid1/awesome-project): A brief description of your project.
